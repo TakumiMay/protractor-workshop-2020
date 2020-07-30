@@ -1,6 +1,6 @@
 dist: trusty
 addons:
-  chrome: stable
+  chrome: beta
 language: node_js
 cache:
   directories:
